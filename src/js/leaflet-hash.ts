@@ -1,3 +1,5 @@
+// @ts-nocheck
+import L from 'leaflet';
 (function(window) {
 	var HAS_HASHCHANGE = (function() {
 		var doc_mode = window.documentMode;

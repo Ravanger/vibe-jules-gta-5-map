@@ -1,0 +1,33 @@
+{
+  "name": "my-map-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:e2e": "playwright test --reporter=line"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/bootstrap": "^5.2.10",
+    "@types/clipboard": "^2.0.1",
+    "@types/jquery": "^4.0.0",
+    "@types/leaflet": "^1.9.21",
+    "@vitest/ui": "^4.0.18",
+    "jsdom": "^28.1.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.1",
+    "vitest": "^4.0.18"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "clipboard": "^2.0.11",
+    "jquery": "^4.0.0",
+    "leaflet": "^1.9.4",
+    "leaflet-hash": "^0.2.1",
+    "lightbox2": "^2.12.0"
+  }
+}
