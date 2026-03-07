@@ -14,8 +14,9 @@ import $ from 'jquery';
 // @ts-ignore
 import 'lightbox2';
 
-import markersData from './data/markers.json';
 import { createCrs, getMapBounds, type MapConfig } from './utils/mapUtils';
+import { MarkerManager } from './utils/MarkerManager';
+import { categories } from './data/categories';
 
 // Set up jQuery globally for Lightbox2
 (window as any).jQuery = $;
@@ -60,23 +61,15 @@ if (mapElement) {
   // @ts-ignore
   new L.Hash(map);
 
-  // Markers
-  const NumMarker = L.Icon.extend({
-    options: {
-      iconSize: [32, 37],
-      iconAnchor: [16, 37]
-    }
+  // Initialize Marker Manager
+  const markerManager = new MarkerManager(map);
+  
+  categories.forEach(category => {
+    markerManager.addCategory(category);
   });
 
-  markersData.forEach(m => {
-    const icon = new (NumMarker as any)({
-      iconUrl: `/images/markers/marker_${m.icon}.png`
-    });
-    
-    L.marker([m.lat, m.lng], { icon })
-      .addTo(map)
-      .bindPopup(m.popupHtml);
-  });
+  // Add Layer Control
+  L.control.layers(undefined, markerManager.getLayersMap(), { collapsed: false }).addTo(map);
 
   // Initialize Clipboard
   new ClipboardJS('.copy');

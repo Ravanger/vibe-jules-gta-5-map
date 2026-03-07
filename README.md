@@ -5,7 +5,8 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 ## 🚀 Features
 
 - **Custom Coordinate System:** Accurately maps pixel coordinates to the GTA V in-game grid using a custom Leaflet CRS.
-- **Interactive Markers:** Dynamically loaded from structured JSON data (`src/data/markers.json`).
+- **Marker Categories & Filtering:** Support for multiple collectible categories (e.g., Playing Cards, Locations) with a built-in Leaflet Layer Control for easy toggling.
+- **Extensible Data Pattern:** Easily add new categories by creating a JSON file in `src/data/categories/` and registering it in `src/data/categories.ts`.
 - **Deep Linking:** URL hash integration via `leaflet-hash` for easy sharing of specific map locations.
 - **Coordinate Tracking:** Real-time in-game coordinate display via a custom MousePosition control.
 - **Image Previews:** Integrated Lightbox2 for viewing in-game screenshots of collectible locations.
@@ -56,12 +57,19 @@ npm run build
 
 ### Running Tests
 - **Unit Tests:** `npm test`
-- **E2E Tests:** `npm run test:e2e`
+- **E2E Tests:** `npm run test:e2e` (Always use `--reporter=line` if running manually to prevent shell freezes).
+
+## 📂 Data Structure
+
+To add a new category:
+1. Create a JSON file in `src/data/categories/` (e.g., `spaceship_parts.json`).
+2. Add it to the `categories` array in `src/data/categories.ts`.
+3. Define its `iconUrl` and visibility settings.
 
 ## 🗺️ Roadmap
 
+- [x] **Filter System:** Integrated Leaflet Layer Control for toggling specific collectible categories.
 - [ ] **Data Expansion:** Plan to include all Grand Theft Auto V locations and collectibles (Letter Scraps, Spaceship Parts, Stunt Jumps, etc.).
-- [ ] **Filter System:** Improved UI for toggling specific collectible categories.
 - [ ] **User Progress Tracking:** LocalStorage or Account-based progress saving for collected items.
 
 ## 📜 Credits

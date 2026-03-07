@@ -7,16 +7,17 @@
 - **Run Dev Server:** `npm run dev` (Vite)
 - **Build Project:** `npm run build`
 - **Run Unit Tests:** `npm test` (Vitest)
-- **Run E2E Tests:** `npm run test:e2e` (Playwright)
+- **Run E2E Tests:** `npm run test:e2e` (Playwright). Use `--reporter=line` to prevent shell freezes.
 - **Preview Build:** `npm run preview`
 
-### Tests Mandatory
+### Tests & Documentation Mandatory
 - **Always Pass:** All changes MUST pass `npm test`, `npm run test:e2e`, and `npm run build` before completion.
 - **Successful Build:** The project must always be buildable with no TypeScript errors or Vite errors.
 - **Coverage:** 
   - New utilities or logic must have unit tests in `src/utils/` or `src/data/`.
   - New UI components or interactions must have E2E tests in `tests/`.
   - Fixes for bugs must include a regression test.
+- **Documentation:** Always keep `README.MD` updated with every change, alongside the tests.
 - **Verification:** Run `npm run test:e2e` after any map or interaction change to ensure markers and popups still function correctly.
 
 ## Codebase Structure
