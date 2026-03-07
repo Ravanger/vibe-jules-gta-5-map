@@ -1,0 +1,149 @@
+[
+  {
+    "lat": -7345.2648233361515,
+    "lng": 3131.0105193210657,
+    "title": "Property: Los Santos International Hangar",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Los Santos International Hangar</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-7345.2648233361515, 3131.0105193210657\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $1,378,000\n- Characters: Franklin, Michael\n- Income: N/A\n\nThis property grants each character a single, large hangar to store purchased or stolen aircraft. When standing at the entrance of the hangar, press RIGHT on the D-pad to select which aircraft to pilot.\n\nAlso, after purchasing a Rhino on the Internet, it will be saved within this hangar.</p>\n</div>"
+  },
+  {
+    "lat": -6581.236957080843,
+    "lng": 3016.070176367215,
+    "title": "Property: Smoke on the Water",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Smoke on the Water</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6581.236957080843, 3016.070176367215\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $204,000\r\n- Characters: Franklin\r\n- Income: $9,300 / week\r\n\r\nSmoke on the Water provides prescribed patients cannabis legally.\r\n\r\nOccasionally Franklin will be called and asked for help to retrieve shipments, recover stolen shipments, or evade police.</p>\n</div>"
+  },
+  {
+    "lat": -6411.783317508123,
+    "lng": 3234.3845537675043,
+    "title": "Property: Puerto del Sol Marina Slip",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Puerto del Sol Marina Slip</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6411.783317508123, 3234.3845537675043\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $75,000\r\n- Characters: Franklin, Michael, Trevor\r\n- Income: N/A\r\n\r\nThis property offers each character a single marina slip to park any purchased or stolen vessels.\r\n\r\nNote: The marina slip functions like hangars or helipads, allowing each character to stow multiple vessels. When standing near the slip, press RIGHT on the D-pad to select which vessel to use.</p>\n</div>"
+  },
+  {
+    "lat": -6497.253304464566,
+    "lng": 3285.710101231276,
+    "title": "Property: Vespucci Helipad",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Vespucci Helipad</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6497.253304464566, 3285.710101231276\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $419,850\r\n- Characters: Franklin, Micheal\r\n- Income: N/A\r\n\r\nThis property grants each character a single helipad for any purchased or stolen helicopters. When standing near the helipad, press RIGHT on the D-pad to select which helicopter to use.</p>\n</div>"
+  },
+  {
+    "lat": -5343.036188257237,
+    "lng": 3391.2528226353243,
+    "title": "Property: Tequi-La-La",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Tequi-La-La</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5343.036188257237, 3391.2528226353243\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $2,000,000\r\n- Characters: Any\r\n- Income: $16,500 / week\r\n\r\nTequi-La-La is a bar that also offers concerts.\r\n\r\nNote: This is one of the better investments to make, as it becomes profitable relatively quickly.</p>\n</div>"
+  },
+  {
+    "lat": -5493.1661295696495,
+    "lng": 3726.6762525656686,
+    "title": "Property: Vinewood Garage",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Vinewood Garage</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5493.1661295696495, 3726.6762525656686\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $30,000\n- Characters: Michael\n- Income: N/A\n\nThis garage allows Michael to store up to 4 cars.\n\nDrive up to the large door in the parking lot and press RIGHT on the D-pad to park your current vehicle inside. Alternatively, approach on foot and press RIGHT on the D-pad to enter on foot and select a vehicle.\n\nAdditionally, special vehicles, such as the Collector's Edition Hotknife and Carbon RS, and the Social Club Exclusive Elegy RH8, may be obtained by pressing RIGHT on the D-pad once inside.</p>\n</div>"
+  },
+  {
+    "lat": -5411.412109807258,
+    "lng": 3984.026972584368,
+    "title": "Property: Doppler Cinema",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Doppler Cinema</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5411.412109807258, 3984.026972584368\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $10,000,000\r\n- Characters: Michael\r\n- Income: $132,200 / week\r\n\r\nCinema Doppler provides the citizens of Los Santos with feature films.\r\n\r\nOccasionally Michael will be called to defend the theater from gang attacks or protests, promote the theater by air-dropping flyers, or recovering cash after a robbery.\r\n\r\nNote: This is a smart investment for Michael, as it turns a profit relatively quickly.</p>\n</div>"
+  },
+  {
+    "lat": -5322.22596677478,
+    "lng": 3900.1711207564294,
+    "title": "Property: Pitchers",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Pitchers</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5322.22596677478, 3900.1711207564294\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $750,000\n- Characters: Any\n- Income: $7,100 / week\n\nPitchers is a popular bar in Vinewood.\n\nOccasionally the purchaser will be called to defend the bar from attackers or to recover money after a robbery.</p>\n</div>"
+  },
+  {
+    "lat": -6000.040735804516,
+    "lng": 4005.7138421604786,
+    "title": "Property: Ten Cent Theater",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Ten Cent Theater</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6000.040735804516, 4005.7138421604786\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $20,000,000\r\n- Characters: Michael\r\n- Income: $264,000 / week\r\n\r\nTen Cent Theater provides the citizens of Los Santos with feature films and other shows.\r\n\r\nOccasionally Michael will be called to defend the theater from gang attacks, promote the theater by air-dropping flyers, or recovering cash after a robbery.</p>\n</div>"
+  },
+  {
+    "lat": -6621.370732794907,
+    "lng": 4027.40071173659,
+    "title": "Property: Towing Impound",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Towing Impound</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6621.370732794907, 4027.40071173659\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $150,000\n- Characters: Franklin\n- Income: $500 / towed car\n\nThis property allows Franklin to tow cars for profit using the Tow Truck that spawns after purchase.</p>\n</div>"
+  },
+  {
+    "lat": -6929.062856736915,
+    "lng": 4728.609143766652,
+    "title": "Property: Car Scrapyard",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Car Scrapyard</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6929.062856736915, 4728.609143766652\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $275,000\r\n- Characters: Any\r\n- Income: $150 / destroyed vehicle\r\n\r\nThis property grants the purchaser a weekly income that is dependent on how many vehicles have been destroyed through gameplay.\r\n\r\nOccasionally the purchaser will be called to defend the scrapyard from attacks.</p>\n</div>"
+  },
+  {
+    "lat": -5641.809639666155,
+    "lng": 4341.860188991127,
+    "title": "Property: Downtown Cab Co.",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Downtown Cab Co.</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5641.809639666155, 4341.860188991127\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $200,000\r\n- Characters: Franklin\r\n- Income: $2,000 / week\r\n\r\nThis property grants Franklin the ability to complete cab fares for extra income. Additionally, Franklin may be called to complete private fares which can be quite different than standard fares.\r\n\r\nNote: All cab rides by Franklin are free after purchase.</p>\n</div>"
+  },
+  {
+    "lat": -2735.828288554343,
+    "lng": 2358.958357208732,
+    "title": "Property: Hookies",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Hookies</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2735.828288554343, 2358.958357208732\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $600,000\r\n- Characters: Franklin or Michael\r\n- Income: $4,700 / week\r\n\r\nOccasionally the purchaser may be called to defend the business from various attacks or recover cash stolen during a robbery.</p>\n</div>"
+  },
+  {
+    "lat": -2129.3622732236163,
+    "lng": 2750.7675596188365,
+    "title": "Property: Sonar Collections Dock",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Sonar Collections Dock</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2129.3622732236163, 2750.7675596188365\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $250,000\r\n- Characters: Any\r\n- Income: $23,000 / nuclear waste\r\n\r\nThis property allows for the purchaser to use a submarine to track down submerged nuclear waste surrounding San Andreas.\r\n\r\nNote: There are a total of 30 nuclear waste spread across San Andreas, meaning this property becomes profitable after finding just 11. After finding all 30 nuclear waste, the net profit is $440,000.</p>\n</div>"
+  },
+  {
+    "lat": -2394.6912406874762,
+    "lng": 5127.647363018369,
+    "title": "Property: McKenzie Field Hangar",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: McKenzie Field Hangar</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2394.6912406874762, 5127.647363018369\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $150,000\r\n- Characters: Trevor\r\n- Income: $5,000 / ground shipment | $7,000 / air shipment\r\n\r\nThis property allows for Trevor to complete drug trafficking missions, either by air or land. Air shipments are worth considerably more than ground shipments, but can prove to be quite tricky.</p>\n</div>"
+  },
+  {
+    "lat": -1435.1972394202148,
+    "lng": 3593.6635176129785,
+    "title": "Property: The Hen House",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: The Hen House</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-1435.1972394202148, 3593.6635176129785\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $80,000\r\n- Characters: Any\r\n- Income: $920 / week\r\n\r\nOccasionally the purchaser may be called to defend against various attackers, recover cash from robberies, or provide general business assistance.</p>\n</div>"
+  },
+  {
+    "lat": -6300.300615554918,
+    "lng": 3641.374630680424,
+    "title": "Property: Pillbox Hill Garage",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Pillbox Hill Garage</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6300.300615554918, 3641.374630680424\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $30,000\r\n- Characters: Trevor\r\n- Income: N/A\r\n\r\nThis garage allows for Trevor to store up to 4 cars.\r\n\r\nDrive up to the large door in the parking lot and press RIGHT on the D-pad to park your current vehicle inside. Alternatively, approach on foot and press RIGHT on the D-pad to enter on foot and select a vehicle.\r\n\r\nAdditionally, special vehicles, such as the Collector's Edition Hotknife and Carbon RS, and the Social Club Exclusive Elegy RH8, may be obtained by pressing RIGHT on the D-pad once inside.</p>\n</div>"
+  },
+  {
+    "lat": -6746.2312921158145,
+    "lng": 3732.459415044317,
+    "title": "Property: Grove Street Garage",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Grove Street Garage</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6746.2312921158145, 3732.459415044317\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $30,000\r\n- Characters: Franklin\r\n- Income: N/A\r\n\r\nThis garage allows for Franklin to store up to 4 cars.\r\n\r\nDrive up to the large door in the parking lot and press RIGHT on the D-pad to park your current vehicle inside. Alternatively, approach on foot and press RIGHT on the D-pad to enter on foot and select a vehicle.\r\n\r\nAdditionally, special vehicles, such as the Collector's Edition Hotknife and Carbon RS, and the Social Club Exclusive Elegy RH8, may be obtained by pressing RIGHT on the D-pad once inside.</p>\n</div>"
+  },
+  {
+    "lat": -5548.9074872396395,
+    "lng": 2876.5513373607464,
+    "title": "Property: Los Santos Golf Club",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Los Santos Golf Club</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5548.9074872396395, 2876.5513373607464\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $150,000,000\r\n- Characters: Any\r\n- Income: $264,500 / week\r\n\r\nThis property grants the purchaser the ability to play golf for free, and wear any clothing while golfing.\r\n\r\nNote: This property is potentially the worst investment to make, due to the sheer amount of time it takes to turn a profit.</p>\n</div>"
+  },
+  {
+    "lat": -5700.523825059158,
+    "lng": 2872.2139634455234,
+    "title": "Property: Tivoli Cinema",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Tivoli Cinema</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5700.523825059158, 2872.2139634455234\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $30,000,000\r\n- Characters: Michael\r\n- Income: $142,300 / week\r\n\r\nTivoli Cinema provides the citizens of Los Santos with feature films.\r\n\r\nOccasionally Michael will be called to defend the theater from gang attacks, promote the theater by air-dropping flyers, or recovering cash after a robbery.</p>\n</div>"
+  },
+  {
+    "lat": -3797.143031282976,
+    "lng": 4519.692387916164,
+    "title": "Property: Los Santos Customs",
+    "icon": "property",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Property: Los Santos Customs</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3797.143031282976, 4519.692387916164\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">- Cost: $349,000\n- Characters: Franklin\n- Income: $1,600 / week\n\nThis garage does not provide a spectacular weekly income, but it has something more rewarding than that. All car upgrades at this garage are free for Franklin after purchase.</p>\n</div>"
+  }
+]

@@ -26,22 +26,25 @@ test('clicking a marker opens a popup', async ({ page }) => {
     const map = window.map;
     if (map) {
       // Set view to a specific coordinate from markers.json
-      map.setView([-1171.5, 3826], 4);
+      map.setView([-7490.11, 4282.91], 5);
     }
   });
   
   // Wait for map to settle
   await page.waitForTimeout(500);
   
-  const firstMarker = await page.locator('.leaflet-marker-icon').first();
-  await firstMarker.click({ force: true });
+  // Click exact center of the map
+  const box = await page.locator('#map').boundingBox();
+  if (box) {
+    await page.mouse.click(box.x + box.width / 2, box.y + box.height / 2 - 15);
+  }
   
   // Wait for popup
   const popup = await page.locator('.leaflet-popup-content');
   await expect(popup).toBeVisible();
   
   // Verify content (e.g., check for <h2> tag)
-  const header = await popup.locator('h2');
+  const header = await popup.locator('h3');
   expect(await header.count()).toBeGreaterThan(0);
 });
 
@@ -53,22 +56,24 @@ test('copy button in popup works', async ({ page }) => {
     // @ts-ignore
     const map = window.map;
     if (map) {
-      map.setView([-1171.5, 3826], 4);
+      map.setView([-7490.11, 4282.91], 5);
     }
   });
   
   // Wait for map to settle
   await page.waitForTimeout(500);
   
-  const firstMarker = await page.locator('.leaflet-marker-icon').first();
-  await firstMarker.click({ force: true });
+  const box = await page.locator('#map').boundingBox();
+  if (box) {
+    await page.mouse.click(box.x + box.width / 2, box.y + box.height / 2 - 15);
+  }
   
   const copyButton = await page.locator('button.copy').first();
   await expect(copyButton).toBeVisible();
   
   // Verify Tailwind classes are applied (simplified check)
   const classes = await copyButton.getAttribute('class');
-  expect(classes).toContain('bg-gray-100');
+  expect(classes).toContain('bg-gray-700/50');
   expect(classes).toContain('transition-colors');
   
   // Playwright can't directly check the clipboard contents easily,
@@ -85,14 +90,16 @@ test('opening glightbox works', async ({ page }) => {
     // @ts-ignore
     const map = window.map;
     if (map) {
-      map.setView([-1171.5, 3826], 4);
+      map.setView([-7490.11, 4282.91], 5);
     }
   });
   
   await page.waitForTimeout(500);
   
-  const firstMarker = await page.locator('.leaflet-marker-icon').first();
-  await firstMarker.click({ force: true });
+  const box = await page.locator('#map').boundingBox();
+  if (box) {
+    await page.mouse.click(box.x + box.width / 2, box.y + box.height / 2 - 15);
+  }
   
   // Find the GLightbox link in the popup
   const lightboxLink = await page.locator('a.glightbox').first();

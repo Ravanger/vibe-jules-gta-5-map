@@ -9,9 +9,12 @@ export interface MarkerData {
   copy_url?: string;
 }
 
+export type CategoryGroup = 'Locations' | 'Activities' | 'Entertainment' | 'Services' | 'Collectibles' | 'Places' | 'Items' | 'Quests' | 'Online' | 'Mysteries' | 'Other';
+
 export interface CategoryDefinition {
   id: string;
   name: string;
+  group: CategoryGroup;
   iconUrl: string | ((m: MarkerData) => string);
   iconSize?: [number, number];
   iconAnchor?: [number, number];
