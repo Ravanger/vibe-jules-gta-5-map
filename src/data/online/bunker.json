@@ -1,0 +1,79 @@
+[
+  {
+    "lat": -1619.0505940312014,
+    "lng": 3239.309270869131,
+    "title": "Paleto Forest Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Paleto Forest Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-1619.0505940312014, 3239.309270869131\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $1,165,000</p>\n</div>"
+  },
+  {
+    "lat": -2684.9342580201355,
+    "lng": 3523.5598836986646,
+    "title": "Raton Canyon Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Raton Canyon Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2684.9342580201355, 3523.5598836986646\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $1,450,000</p>\n</div>"
+  },
+  {
+    "lat": -2442.618628089327,
+    "lng": 4937.38080614722,
+    "title": "Grapeseed Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Grapeseed Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2442.618628089327, 4937.38080614722\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $1,750,000</p>\n</div>"
+  },
+  {
+    "lat": -3375.15702335497,
+    "lng": 1810.1497869657815,
+    "title": "Lago Zancudo Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Lago Zancudo Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3375.15702335497, 1810.1497869657815\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $1,550,000</p>\n</div>"
+  },
+  {
+    "lat": -4623.652746361283,
+    "lng": 1742.9472974975342,
+    "title": "Chumash Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Chumash Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4623.652746361283, 1742.9472974975342\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $1,650,000</p>\n</div>"
+  },
+  {
+    "lat": -3573.414579762555,
+    "lng": 3774.4581200172934,
+    "title": "Route 68 Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Route 68 Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3573.414579762555, 3774.4581200172934\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $1,950,000</p>\n</div>"
+  },
+  {
+    "lat": -3568.622164290815,
+    "lng": 4075.518780230912,
+    "title": "Grand Senora Oilfields Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Grand Senora Oilfields Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3568.622164290815, 4075.518780230912\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $2,035,000</p>\n</div>"
+  },
+  {
+    "lat": -3547.0688489210133,
+    "lng": 4286.601086471123,
+    "title": "Grand Senora Desert Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Grand Senora Desert Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3547.0688489210133, 4286.601086471123\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $2,120,000</p>\n</div>"
+  },
+  {
+    "lat": -4069.228851595635,
+    "lng": 4767.6933270199115,
+    "title": "Farmhouse Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Farmhouse Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4069.228851595635, 4767.6933270199115\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $2,375,000</p>\n</div>"
+  },
+  {
+    "lat": -3486.1706525371974,
+    "lng": 5351.601793353192,
+    "title": "Thomson Scrapyard Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Thomson Scrapyard Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3486.1706525371974, 5351.601793353192\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $2,290,000</p>\n</div>"
+  },
+  {
+    "lat": -3351.755357758755,
+    "lng": 5105.886849820124,
+    "title": "Smoke Tree Road Bunker",
+    "icon": "bunker",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Smoke Tree Road Bunker</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3351.755357758755, 5105.886849820124\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Cost:** $2,205,000</p>\n</div>"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "lat": -5755.522002866716,
+    "lng": 3461.373673857979,
+    "title": "Mount Zonah Medical Center",
+    "icon": "hospital",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Mount Zonah Medical Center</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5755.522002866716, 3461.373673857979\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -6460.835667906052,
+    "lng": 3990.5330406543544,
+    "title": "Central Los Santos Medical Center",
+    "icon": "hospital",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Central Los Santos Medical Center</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6460.835667906052, 3990.5330406543544\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5919.029912570205,
+    "lng": 3985.4727734852077,
+    "title": "Pillbox Hill Medical Center",
+    "icon": "hospital",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Pillbox Hill Medical Center</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5919.029912570205, 3985.4727734852077\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -1415.8734357803169,
+    "lng": 3572.6995515713115,
+    "title": "The Bay Care Center",
+    "icon": "hospital",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">The Bay Care Center</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-1415.8734357803169, 3572.6995515713115\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -3120.8150033256406,
+    "lng": 4931.019838744306,
+    "title": "Sandy Shores Medical Center",
+    "icon": "hospital",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Sandy Shores Medical Center</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3120.8150033256406, 4931.019838744306\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -6535.749759477521,
+    "lng": 4505.575380630764,
+    "title": "St Fiacre Hospital",
+    "icon": "hospital",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">St Fiacre Hospital</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6535.749759477521, 4505.575380630764\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5730.159696418438,
+    "lng": 3204.6102959972377,
+    "title": "Portola Trinity Medical Center",
+    "icon": "hospital",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Portola Trinity Medical Center</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5730.159696418438, 3204.6102959972377\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5324.680857792235,
+    "lng": 3349.239222437458,
+    "title": "Eclipse Medical Tower",
+    "icon": "hospital",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Eclipse Medical Tower</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5324.680857792235, 3349.239222437458\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  }
+]

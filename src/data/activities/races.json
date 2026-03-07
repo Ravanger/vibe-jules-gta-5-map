@@ -1,0 +1,107 @@
+[
+  {
+    "lat": -7221.1474480274555,
+    "lng": 3243.0592902883236,
+    "title": "Airport",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Airport</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-7221.1474480274555, 3243.0592902883236\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Street Race**\r\n\r\n_Note: Only available between 20:00 and 05:00_</p>\n</div>"
+  },
+  {
+    "lat": -6284.693056088972,
+    "lng": 3076.0704737176657,
+    "title": "Vespucci Canals",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Vespucci Canals</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6284.693056088972, 3076.0704737176657\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Street Race**\n\n_Note: Only available between 20:00 and 05:00_</p>\n</div>"
+  },
+  {
+    "lat": -5319.253171066731,
+    "lng": 4002.8222609211543,
+    "title": "City Circuit",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">City Circuit</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5319.253171066731, 4002.8222609211543\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Street Race**\r\n\r\n_Note: Only available between 20:00 and 05:00_</p>\n</div>"
+  },
+  {
+    "lat": -6286.92270940324,
+    "lng": 4274.630897417654,
+    "title": "Freeway",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Freeway</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6286.92270940324, 4274.630897417654\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Street Race**\r\n\r\n_Note: Only available between 20:00 and 05:00_</p>\n</div>"
+  },
+  {
+    "lat": -6584.209817955076,
+    "lng": 3648.603559103909,
+    "title": "Shift Work",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Shift Work</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6584.209817955076, 3648.603559103909\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Street Race** - part of the [Shift Work](https://gta-5-map.com?locationIds=13374) side mission.</p>\n</div>"
+  },
+  {
+    "lat": -4183.666393253216,
+    "lng": 3418.7228505776147,
+    "title": "Ridge Run",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Ridge Run</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4183.666393253216, 3418.7228505776147\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Offroad Race**</p>\n</div>"
+  },
+  {
+    "lat": -2600.5625633598393,
+    "lng": 2523.0555616971924,
+    "title": "Canyon Cliffs",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Canyon Cliffs</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2600.5625633598393, 2523.0555616971924\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Offroad Race**</p>\n</div>"
+  },
+  {
+    "lat": -2753.6654242638524,
+    "lng": 3610.2901076831877,
+    "title": "Valley Trail",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Valley Trail</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2753.6654242638524, 3610.2901076831877\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Offroad Race**</p>\n</div>"
+  },
+  {
+    "lat": -2122.6735363623593,
+    "lng": 5958.976969324085,
+    "title": "North East Coast",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">North East Coast</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2122.6735363623593, 5958.976969324085\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Sea Race**</p>\n</div>"
+  },
+  {
+    "lat": -3714.646002657866,
+    "lng": 5671.264636011302,
+    "title": "Mineward Spiral",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Mineward Spiral</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3714.646002657866, 5671.264636011302\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Offroad Race**\n\n_Note: Only available between 20:00 and 03:00_</p>\n</div>"
+  },
+  {
+    "lat": -4162.80631879982,
+    "lng": 5032.225182120662,
+    "title": "Eco Friendly",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Eco Friendly</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4162.80631879982, 5032.225182120662\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Offroad Race**</p>\n</div>"
+  },
+  {
+    "lat": -2979.603626763308,
+    "lng": 4790.055253327568,
+    "title": "Lakeside Splash",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Lakeside Splash</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2979.603626763308, 4790.055253327568\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Offroad Race**</p>\n</div>"
+  },
+  {
+    "lat": -6910.4824195908095,
+    "lng": 4179.208716519946,
+    "title": "Los Santos",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Los Santos</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6910.4824195908095, 4179.208716519946\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Sea Race**</p>\n</div>"
+  },
+  {
+    "lat": -3152.773367494756,
+    "lng": 3898.0024409959724,
+    "title": "Raton Canyon",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Raton Canyon</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3152.773367494756, 3898.0024409959724\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Sea Race**</p>\n</div>"
+  },
+  {
+    "lat": -5115.6115017086595,
+    "lng": 5731.2649467273495,
+    "title": "East Coast",
+    "icon": "races",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">East Coast</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5115.6115017086595, 5731.2649467273495\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">**Sea Race**</p>\n</div>"
+  }
+]

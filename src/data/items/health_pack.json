@@ -1,0 +1,331 @@
+[
+  {
+    "lat": -6325.1984246291595,
+    "lng": 3835.110549040336,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"mb-3\">\n    <a href=\"https://media.mapgenie.io/storage/media/a8b2a870-e2d7-4d3d-b163-cb9d31954c2f.png\" class=\"glightbox block overflow-hidden rounded-lg shadow-sm border border-gray-700/50 hover:border-blue-500/50 transition-colors\" data-gallery=\"health_pack\">\n      <img src=\"https://media.mapgenie.io/storage/media/a8b2a870-e2d7-4d3d-b163-cb9d31954c2f.png\" alt=\"Health Pack\" class=\"w-full h-[180px] object-cover hover:scale-105 transition-transform duration-300\" />\n    </a>\n  </div>\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6325.1984246291595, 3835.110549040336\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Beneath a lamp post.</p>\n</div>"
+  },
+  {
+    "lat": -6579.61115799462,
+    "lng": 4495.475414571224,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6579.61115799462, 4495.475414571224\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the south side of the Fire Station, on the main building wall.</p>\n</div>"
+  },
+  {
+    "lat": -5939.096792397555,
+    "lng": 3784.507877352158,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5939.096792397555, 3784.507877352158\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the south wall of the main hospital building.</p>\n</div>"
+  },
+  {
+    "lat": -7417.72868531208,
+    "lng": 3634.5071329479106,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-7417.72868531208, 3634.5071329479106\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5669.30890802877,
+    "lng": 4031.015211932455,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5669.30890802877, 4031.015211932455\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -3128.5966278580327,
+    "lng": 5438.424023707196,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3128.5966278580327, 5438.424023707196\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Near a telescope on the observation deck.</p>\n</div>"
+  },
+  {
+    "lat": -2239.685012622347,
+    "lng": 5329.043215278739,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2239.685012622347, 5329.043215278739\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Near some wooden pallets and blue barrels next to the building.</p>\n</div>"
+  },
+  {
+    "lat": -2262.7250003798545,
+    "lng": 5361.296635188959,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2262.7250003798545, 5361.296635188959\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -3352.4169857869983,
+    "lng": 4872.216634436461,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3352.4169857869983, 4872.216634436461\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Near some boxes inside the warehouse.</p>\n</div>"
+  },
+  {
+    "lat": -5290.0115483745,
+    "lng": 2314.236319732885,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"mb-3\">\n    <a href=\"https://media.mapgenie.io/storage/media/e3e928cd-74a7-4482-a267-f0f76cb2eb02.jpg\" class=\"glightbox block overflow-hidden rounded-lg shadow-sm border border-gray-700/50 hover:border-blue-500/50 transition-colors\" data-gallery=\"health_pack\">\n      <img src=\"https://media.mapgenie.io/storage/media/e3e928cd-74a7-4482-a267-f0f76cb2eb02.jpg\" alt=\"Health Pack\" class=\"w-full h-[180px] object-cover hover:scale-105 transition-transform duration-300\" />\n    </a>\n  </div>\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5290.0115483745, 2314.236319732885\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the first floor of Kotz Center (Bell Building), left side. Near a sculpture.</p>\n</div>"
+  },
+  {
+    "lat": -5614.682382595411,
+    "lng": 4371.137430019109,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5614.682382595411, 4371.137430019109\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On a set of shelves on the left just inside the Lost Biker Hangout.</p>\n</div>"
+  },
+  {
+    "lat": -3022.462632758057,
+    "lng": 5022.466127823652,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3022.462632758057, 5022.466127823652\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">In Trevor's trailer.</p>\n</div>"
+  },
+  {
+    "lat": -1354.5581243999695,
+    "lng": 4674.3920356259105,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-1354.5581243999695, 4674.3920356259105\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the shelves inside a tent near the letter scrap.</p>\n</div>"
+  },
+  {
+    "lat": -3158.4404030015376,
+    "lng": 4657.3136020593765,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3158.4404030015376, 4657.3136020593765\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Downstairs, on the countertop in the store.</p>\n</div>"
+  },
+  {
+    "lat": -7040.545615089888,
+    "lng": 3920.7736139539666,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-7040.545615089888, 3920.7736139539666\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the south side of the sunken barge under water, dive deep.</p>\n</div>"
+  },
+  {
+    "lat": -6547.048929386071,
+    "lng": 2969.4434155174113,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6547.048929386071, 2969.4434155174113\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the wall of the public bathrooms.</p>\n</div>"
+  },
+  {
+    "lat": -2555.690790412731,
+    "lng": 6151.447845566735,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2555.690790412731, 6151.447845566735\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Approach the yellow wooden house with a \"for sale/foreclosure\" banner on the side. The health pack can be found on its front porch.</p>\n</div>"
+  },
+  {
+    "lat": -4678.692076352233,
+    "lng": 4264.871834895701,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4678.692076352233, 4264.871834895701\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the outer wall of a building with white walls, at the top of some stairs.</p>\n</div>"
+  },
+  {
+    "lat": -1592.0160475973535,
+    "lng": 3463.903807441893,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-1592.0160475973535, 3463.903807441893\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">In front of a white door outside the police station.</p>\n</div>"
+  },
+  {
+    "lat": -978.8613609727545,
+    "lng": 3840.893699181571,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-978.8613609727545, 3840.893699181571\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Underneath the monkey bars.</p>\n</div>"
+  },
+  {
+    "lat": -5193.649367703566,
+    "lng": 3761.3300464805543,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5193.649367703566, 3761.3300464805543\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Inside [Franklin's Place](https://gta-5-map.com?locationIds=13910), on the counter next to a closed laptop.</p>\n</div>"
+  },
+  {
+    "lat": -5425.533357651164,
+    "lng": 3256.0081899880443,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5425.533357651164, 3256.0081899880443\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">In bathroom of Michael's safehouse.</p>\n</div>"
+  },
+  {
+    "lat": -4962.384432230411,
+    "lng": 2818.767631087465,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"mb-3\">\n    <a href=\"https://media.mapgenie.io/storage/media/b98f747a-d838-4fb9-86dd-aae96dc7a2c3.png\" class=\"glightbox block overflow-hidden rounded-lg shadow-sm border border-gray-700/50 hover:border-blue-500/50 transition-colors\" data-gallery=\"health_pack\">\n      <img src=\"https://media.mapgenie.io/storage/media/b98f747a-d838-4fb9-86dd-aae96dc7a2c3.png\" alt=\"Health Pack\" class=\"w-full h-[180px] object-cover hover:scale-105 transition-transform duration-300\" />\n    </a>\n  </div>\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4962.384432230411, 2818.767631087465\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Located next door to Professor W. BURTON's main drug recovery center home.</p>\n</div>"
+  },
+  {
+    "lat": -5867.376277459217,
+    "lng": 3098.706133106485,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5867.376277459217, 3098.706133106485\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Next to a trailer, to your left when you enter the movie studio from the lift gate.</p>\n</div>"
+  },
+  {
+    "lat": -3108.845466772951,
+    "lng": 4937.187821593285,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3108.845466772951, 4937.187821593285\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Next to the hospital's front door.</p>\n</div>"
+  },
+  {
+    "lat": -6735.361732209507,
+    "lng": 4384.510984511983,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6735.361732209507, 4384.510984511983\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On a high-up walkway.</p>\n</div>"
+  },
+  {
+    "lat": -5822.969234427178,
+    "lng": 3462.457989577275,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5822.969234427178, 3462.457989577275\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -7506.171305930046,
+    "lng": 3861.044478553931,
+    "title": "health pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">health pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-7506.171305930046, 3861.044478553931\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -2290.2691438084967,
+    "lng": 3097.395885357848,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2290.2691438084967, 3097.395885357848\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Inside a lookout tower. Climb the ladder to reach it.</p>\n</div>"
+  },
+  {
+    "lat": -2119.003898616549,
+    "lng": 5867.575893587425,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-2119.003898616549, 5867.575893587425\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Next to a picnic table outside a house growing pumpkins.</p>\n</div>"
+  },
+  {
+    "lat": -6483.875418818885,
+    "lng": 3965.954600120097,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6483.875418818885, 3965.954600120097\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the wall next to an 'EMERGENCY' sign.</p>\n</div>"
+  },
+  {
+    "lat": -7441.000555023743,
+    "lng": 3585.4857623645476,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-7441.000555023743, 3585.4857623645476\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">In the back end of sunken boat.</p>\n</div>"
+  },
+  {
+    "lat": -6018.295936159999,
+    "lng": 5583.071408211906,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6018.295936159999, 5583.071408211906\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">In the small cave by the beach.</p>\n</div>"
+  },
+  {
+    "lat": -5084.804279522181,
+    "lng": 3289.9993098850227,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5084.804279522181, 3289.9993098850227\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Next to a doorway in the construction site.</p>\n</div>"
+  },
+  {
+    "lat": -5497.625436197813,
+    "lng": 1854.3774001030815,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"mb-3\">\n    <a href=\"https://media.mapgenie.io/storage/media/2e0eb4e8-6742-43db-827d-9f03a22889a5.png\" class=\"glightbox block overflow-hidden rounded-lg shadow-sm border border-gray-700/50 hover:border-blue-500/50 transition-colors\" data-gallery=\"health_pack\">\n      <img src=\"https://media.mapgenie.io/storage/media/2e0eb4e8-6742-43db-827d-9f03a22889a5.png\" alt=\"Health Pack\" class=\"w-full h-[180px] object-cover hover:scale-105 transition-transform duration-300\" />\n    </a>\n  </div>\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5497.625436197813, 1854.3774001030815\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Next to the tennis court</p>\n</div>"
+  },
+  {
+    "lat": -5303.64594690668,
+    "lng": 3898.363870658498,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5303.64594690668, 3898.363870658498\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Next to [Pitchers](https://gta-5-map.com?locationIds=12652).</p>\n</div>"
+  },
+  {
+    "lat": -5535.529662675233,
+    "lng": 4820.4168306372,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5535.529662675233, 4820.4168306372\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">in a technical room inside the damm is a health pack</p>\n</div>"
+  },
+  {
+    "lat": -4245.303491423026,
+    "lng": 3745.1100829665265,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4245.303491423026, 3745.1100829665265\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Outside a house, near the lawn chairs.</p>\n</div>"
+  },
+  {
+    "lat": -4803.831799206016,
+    "lng": 1733.653902895523,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4803.831799206016, 1733.653902895523\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the ground outside the building, near some cardboard boxes.</p>\n</div>"
+  },
+  {
+    "lat": -6675.625603834698,
+    "lng": 4598.487996221993,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6675.625603834698, 4598.487996221993\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Near a concrete mixer in the construction site.</p>\n</div>"
+  },
+  {
+    "lat": -6412.898121652074,
+    "lng": 3262.9389113088437,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6412.898121652074, 3262.9389113088437\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On a tiled walkway, near some railings.</p>\n</div>"
+  },
+  {
+    "lat": -4804.203469811137,
+    "lng": 3459.5664289003053,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"mb-3\">\n    <a href=\"https://media.mapgenie.io/storage/media/8a80584c-c4c9-4e85-a3ea-e1027fb36ebb.png\" class=\"glightbox block overflow-hidden rounded-lg shadow-sm border border-gray-700/50 hover:border-blue-500/50 transition-colors\" data-gallery=\"health_pack\">\n      <img src=\"https://media.mapgenie.io/storage/media/8a80584c-c4c9-4e85-a3ea-e1027fb36ebb.png\" alt=\"Health Pack\" class=\"w-full h-[180px] object-cover hover:scale-105 transition-transform duration-300\" />\n    </a>\n  </div>\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4804.203469811137, 3459.5664289003053\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the wall of the observatory, near a door on the sightseeing side.</p>\n</div>"
+  },
+  {
+    "lat": -6744.001677944765,
+    "lng": 3775.4716535935595,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"mb-3\">\n    <a href=\"https://media.mapgenie.io/storage/media/2fbcf3a6-4bc1-4863-9918-96371d0c74e0.png\" class=\"glightbox block overflow-hidden rounded-lg shadow-sm border border-gray-700/50 hover:border-blue-500/50 transition-colors\" data-gallery=\"health_pack\">\n      <img src=\"https://media.mapgenie.io/storage/media/2fbcf3a6-4bc1-4863-9918-96371d0c74e0.png\" alt=\"Health Pack\" class=\"w-full h-[180px] object-cover hover:scale-105 transition-transform duration-300\" />\n    </a>\n  </div>\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6744.001677944765, 3775.4716535935595\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Underneath some stairs, near two blue dumpsters.</p>\n</div>"
+  },
+  {
+    "lat": -3803.8390208611363,
+    "lng": 3982.3161003028044,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-3803.8390208611363, 3982.3161003028044\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">In front of the short buildings.</p>\n</div>"
+  },
+  {
+    "lat": -6005.2431740501115,
+    "lng": 3257.8786441403554,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6005.2431740501115, 3257.8786441403554\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">In front of a door behind the church.</p>\n</div>"
+  },
+  {
+    "lat": -5968.873186862649,
+    "lng": 4492.7763795477385,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"mb-3\">\n    <a href=\"https://media.mapgenie.io/storage/media/930c10c2-e849-4ba0-bec9-e15f0dea3c96.png\" class=\"glightbox block overflow-hidden rounded-lg shadow-sm border border-gray-700/50 hover:border-blue-500/50 transition-colors\" data-gallery=\"health_pack\">\n      <img src=\"https://media.mapgenie.io/storage/media/930c10c2-e849-4ba0-bec9-e15f0dea3c96.png\" alt=\"Health Pack\" class=\"w-full h-[180px] object-cover hover:scale-105 transition-transform duration-300\" />\n    </a>\n  </div>\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5968.873186862649, 4492.7763795477385\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">On the ground in front of a sink.</p>\n</div>"
+  },
+  {
+    "lat": -4169.959789849298,
+    "lng": 2557.618993698061,
+    "title": "Health Pack",
+    "icon": "health_pack",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Health Pack</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-4169.959789849298, 2557.618993698061\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Near the pillars and doors.</p>\n</div>"
+  }
+]

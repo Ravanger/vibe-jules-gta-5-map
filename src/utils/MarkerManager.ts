@@ -32,7 +32,7 @@ export class MarkerManager {
         .addTo(layerGroup);
     });
 
-    this.layers[category.name] = layerGroup; // Use name for Layer Control display
+    this.layers[`<span class="category-group text-xs text-gray-500 uppercase tracking-wider block mb-1 mt-2">${category.group}</span><span class="category-name inline-block ml-2">${category.name}</span>`] = layerGroup;
 
     if (category.visible) {
       layerGroup.addTo(this.map);

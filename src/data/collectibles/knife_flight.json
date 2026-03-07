@@ -1,0 +1,107 @@
+[
+  {
+    "lat": -5893.017323760018,
+    "lng": 2770.647179097017,
+    "title": "Knife Flight #2",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #2</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5893.017323760018, 2770.647179097017\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5916.0571261778605,
+    "lng": 2825.225789896973,
+    "title": "Knife Flight #3",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #3</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5916.0571261778605, 2825.225789896973\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5780.048243682813,
+    "lng": 3005.2267415791594,
+    "title": "Knife Flight #4",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #4</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5780.048243682813, 3005.2267415791594\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5809.776991514009,
+    "lng": 3170.0468845580654,
+    "title": "Knife Flight #5",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #5</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5809.776991514009, 3170.0468845580654\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5952.474816367113,
+    "lng": 3322.577779510664,
+    "title": "Knife Flight #6",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #6</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5952.474816367113, 3322.577779510664\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5382.426649927413,
+    "lng": 3299.4450966962995,
+    "title": "Knife Flight #7",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #7</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5382.426649927413, 3299.4450966962995\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5340.863641681837,
+    "lng": 3270.4010219113497,
+    "title": "Knife Flight #8",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #8</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5340.863641681837, 3270.4010219113497\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5447.829885212993,
+    "lng": 3936.3158595169234,
+    "title": "Knife Flight #9",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #9</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5447.829885212993, 3936.3158595169234\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5569.774715266708,
+    "lng": 3996.19218932071,
+    "title": "Knife Flight #10",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #10</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5569.774715266708, 3996.19218932071\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -6081.051411466612,
+    "lng": 3584.265896063176,
+    "title": "Knife Flight #11",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #11</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6081.051411466612, 3584.265896063176\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -6042.404148623528,
+    "lng": 3574.868208713837,
+    "title": "Knife Flight #12",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #12</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6042.404148623528, 3574.868208713837\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -6032.74227623994,
+    "lng": 3624.748008738892,
+    "title": "Knife Flight #13",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #13</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6032.74227623994, 3624.748008738892\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -6066.930255680619,
+    "lng": 3629.085382654115,
+    "title": "Knife Flight #14",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #14</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-6066.930255680619, 3629.085382654115\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5990.378867084296,
+    "lng": 3840.1708254622145,
+    "title": "Knife Flight #15",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #15</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5990.378867084296, 3840.1708254622145\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n</div>"
+  },
+  {
+    "lat": -5754.778853907358,
+    "lng": 2579.441421566633,
+    "title": "Knife Flight #1",
+    "icon": "knife_flight",
+    "popupHtml": "<div class=\"p-1\">\n  <div class=\"flex justify-between items-start gap-4 mb-2\">\n    <h3 class=\"text-lg font-bold text-white leading-tight\">Knife Flight #1</h3>\n    <button class=\"copy p-1.5 bg-gray-700/50 hover:bg-blue-500 text-gray-400 hover:text-white rounded transition-colors\"\n      data-clipboard-text=\"-5754.778853907358, 2579.441421566633\"\n      title=\"Copy Location\">\n      <svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" \n          d=\"M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3\" />\n      </svg>\n    </button>\n  </div>\n  <p class=\"text-gray-300 text-sm leading-relaxed mb-3\">Perform a knife flight between the two tall buildings opposite the cemetery.</p>\n</div>"
+  }
+]

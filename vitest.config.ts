@@ -4,6 +4,8 @@ export default defineConfig({
   test: {
     environment: 'jsdom',
     globals: true,
-    exclude: ['**/node_modules/**', '**/dist/**', '**/tests/**'],
+    pool: 'forks',
+    include: ['**/*.{test,spec}.{js,ts}'],
+    exclude: ['**/node_modules/**', '**/dist/**', '**/tests/**']
   },
 });
