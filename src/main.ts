@@ -14,6 +14,7 @@ import { createCrs, getMapBounds, type MapConfig } from './utils/mapUtils';
 import { MarkerManager } from './utils/MarkerManager';
 import { LayerSidebar } from './utils/LayerSidebar';
 import { categories } from './data/categories';
+import { AppStorageBackend, UserProgressStore } from './utils/UserProgressStore';
 
 const config: MapConfig = {
   mapExtent: [0, -8192, 8192, 0],
@@ -53,12 +54,34 @@ if (mapElement) {
   // @ts-ignore
   new L.Hash(map);
 
+  const progressBackend = new AppStorageBackend();
+  const progressStore = new UserProgressStore(categories, progressBackend);
+
   // Initialize Marker Manager — adds markers to layer groups
   const markerManager = new MarkerManager(map);
-  categories.forEach(category => markerManager.addCategory(category));
+  markerManager.setHideCollected(progressStore.isHideCollected());
+
+  categories.forEach(category => {
+    markerManager.addCategory(category);
+    
+    // Restore saved visibility
+    const isVisible = progressStore.isCategoryVisible(category.id);
+    if (isVisible) {
+      markerManager.showLayer(category.id);
+    } else {
+      markerManager.hideLayer(category.id);
+    }
+
+    markerManager.syncCategoryCollected(category.id, (index) => progressStore.isCollected(category.id, index));
+  });
+
+  // Keep marker manager in sync with settings
+  progressStore.subscribe((state) => {
+    markerManager.setHideCollected(state.settings.hideCollected);
+  });
 
   // Initialize custom Layer Sidebar (replaces L.control.layers)
-  new LayerSidebar(markerManager, categories);
+  new LayerSidebar(markerManager, categories, progressStore);
 
   // Initialize Clipboard with success feedback
   const clipboard = new ClipboardJS('.copy');
@@ -93,12 +116,42 @@ if (mapElement) {
     autoplayVideos: true
   });
 
-  map.on('popupopen', () => {
+  map.on('popupopen', (event) => {
     lightbox.reload();
     document.querySelectorAll<HTMLButtonElement>('button.copy').forEach(btn => {
       if (!btn.getAttribute('aria-label')) {
         btn.setAttribute('aria-label', 'Copy location coordinates');
       }
+    });
+
+    const popup = event.popup;
+    const content = popup.getElement();
+    if (!content) return;
+
+    const popupRoot = content.querySelector('.popup-root') as HTMLElement;
+    if (!popupRoot) return;
+
+    const progressToggle = popupRoot.querySelector<HTMLButtonElement>('[data-progress-toggle]');
+    const categoryId = popupRoot.dataset.categoryId;
+    const indexAttr = popupRoot.dataset.markerIndex;
+
+    if (!progressToggle || !categoryId || indexAttr == null) return;
+
+    const markerIndex = Number.parseInt(indexAttr, 10);
+    const updateToggle = () => {
+      const collected = progressStore.isCollected(categoryId, markerIndex);
+      progressToggle.dataset.collected = String(collected);
+      progressToggle.textContent = collected ? 'Collected' : 'Mark as collected';
+      progressToggle.setAttribute('aria-pressed', String(collected));
+      markerManager.markCollected(categoryId, markerIndex, collected);
+    };
+
+    updateToggle();
+
+    progressToggle.addEventListener('click', () => {
+      const current = progressStore.isCollected(categoryId, markerIndex);
+      progressStore.setCollected(categoryId, markerIndex, !current);
+      updateToggle();
     });
   });
 }

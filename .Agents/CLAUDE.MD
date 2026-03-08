@@ -23,8 +23,10 @@
 ## Codebase Structure
 - `src/main.ts`: Entry point, map initialization.
 - `src/utils/mapUtils.ts`: CRS and bounds logic.
-- `src/utils/MarkerManager.ts`: Handles marker creation and layer management.
-- `src/utils/LayerSidebar.ts`: Custom sidebar UI for category filtering.
+- `src/utils/MarkerManager.ts`: Handles marker creation, layer management, and optional visual styling for collected markers.
+- `src/utils/LayerSidebar.ts`: Custom sidebar UI for category filtering and per-category progress display.
+- `src/utils/UserProgressStore.ts`: User progress tracking for collectibles, with a pluggable backend interface.
+- `src/utils/storage.ts`: Central storage abstraction using `store.js` for robust cross-browser persistence.
 - `src/js/`: Custom Leaflet plugins (mouse position, hash).
 - `src/data/`: Static data (markers categorized).
 - `public/images/`: Map tiles and marker icons.

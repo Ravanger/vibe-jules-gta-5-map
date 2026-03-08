@@ -1,5 +1,6 @@
 import type { CategoryDefinition, CategoryGroup } from '../types';
 import type { MarkerManager } from './MarkerManager';
+import type { UserProgressStore } from './UserProgressStore';
 
 // Per-group metadata: accent color + SVG path
 const GROUP_META: Record<string, { color: string; path: string }> = {
@@ -25,23 +26,28 @@ export class LayerSidebar {
   private cats: CategoryDefinition[];
   private el: HTMLElement;
   private collapsed = false;
+  private progress: UserProgressStore;
 
-  constructor(mm: MarkerManager, cats: CategoryDefinition[]) {
+  constructor(mm: MarkerManager, cats: CategoryDefinition[], progress: UserProgressStore) {
     this.mm = mm;
     this.cats = cats;
+    this.progress = progress;
     this.el = document.getElementById('sidebar')!;
     this.render();
+    this.progress.subscribe(() => this.refreshProgressUI());
   }
 
   // ---------- layer helpers ----------
 
   private show(id: string): void {
     this.mm.showLayer(id);
+    this.progress.setCategoryVisible(id, true);
     this.syncItemUI(id, true);
   }
 
   private hide(id: string): void {
     this.mm.hideLayer(id);
+    this.progress.setCategoryVisible(id, false);
     this.syncItemUI(id, false);
   }
 
@@ -101,7 +107,13 @@ export class LayerSidebar {
     const allOn = cats.every(c => this.mm.isVisible(c.id));
 
     const items = cats.map(c => {
-      const on = this.mm.isVisible(c.id);
+      const on = this.progress.isCategoryVisible(c.id);
+      const { collected, total } = this.progress.getCategoryProgress(c.id);
+      const hasProgress = total > 0;
+      const progressLabel = hasProgress ? `${collected}/${total}` : `${c.markers.length}`;
+      const progressAria = hasProgress
+        ? `${collected} of ${total} collected`
+        : `${c.markers.length} markers`;
       return `
         <label class="cat-item${on ? ' cat-item--on' : ''}" for="cb-${c.id}" style="--accent:${meta.color}">
           <input type="checkbox" class="cat-cb sr-only" id="cb-${c.id}"
@@ -111,7 +123,7 @@ export class LayerSidebar {
             <svg viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M1.5 5l2.5 2.5 4.5-4"/></svg>
           </span>
           <span class="cat-name">${c.name}</span>
-          <span class="cat-count" aria-label="${c.markers.length} markers">${c.markers.length}</span>
+          <span class="cat-count" data-progress-category="${c.id}" aria-label="${progressAria}">${progressLabel}</span>
         </label>`;
     }).join('');
 
@@ -169,6 +181,10 @@ export class LayerSidebar {
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M17.94 17.94A10.07 10.07 0 0112 20c-7 0-11-8-11-8a18.45 18.45 0 015.06-5.94M9.9 4.24A9.12 9.12 0 0112 4c7 0 11 8 11 8a18.5 18.5 0 01-2.16 3.19m-6.72-1.07a3 3 0 11-4.24-4.24M1 1l22 22"/></svg>
             Hide All
           </button>
+          <button id="btn-toggle-collected" class="global-btn ${this.progress.isHideCollected() ? 'global-btn--active' : 'global-btn--inactive'}" aria-label="Toggle collected markers">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M22 11.08V12a10 10 0 11-5.93-9.14M22 4L12 14.01l-3-3"/></svg>
+            ${this.progress.isHideCollected() ? 'Show Found' : 'Hide Found'}
+          </button>
         </div>
         <div id="sb-cats">
           ${groupOrder.map(g => this.buildGroup(g, groupMap.get(g)!)).join('')}
@@ -176,6 +192,27 @@ export class LayerSidebar {
       </div>`;
 
     this.bindEvents();
+    this.refreshProgressUI();
+  }
+
+  private refreshProgressUI(): void {
+    const hideCollected = this.progress.isHideCollected();
+    const btn = document.getElementById('btn-toggle-collected');
+    if (btn) {
+      btn.textContent = hideCollected ? 'Show Found' : 'Hide Found';
+      btn.className = `global-btn ${hideCollected ? 'global-btn--active' : 'global-btn--inactive'}`;
+      btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M22 11.08V12a10 10 0 11-5.93-9.14M22 4L12 14.01l-3-3"/></svg> ${hideCollected ? 'Show Found' : 'Hide Found'}`;
+    }
+
+    this.cats.forEach(c => {
+      const node = this.el.querySelector<HTMLElement>(`[data-progress-category="${c.id}"]`);
+      if (!node) return;
+      const { collected, total } = this.progress.getCategoryProgress(c.id);
+      const hasProgress = total > 0;
+      node.textContent = hasProgress ? `${collected}/${total}` : `${c.markers.length}`;
+      node.setAttribute('aria-label', hasProgress ? `${collected} of ${total} collected` : `${c.markers.length} markers`);
+      node.classList.toggle('cat-count--complete', hasProgress && collected === total && total > 0);
+    });
   }
 
   private bindEvents(): void {
@@ -185,6 +222,11 @@ export class LayerSidebar {
     // Global show/hide
     document.getElementById('btn-show-all')?.addEventListener('click', () => this.setAll(true));
     document.getElementById('btn-hide-all')?.addEventListener('click', () => this.setAll(false));
+
+    // Toggle collected markers
+    document.getElementById('btn-toggle-collected')?.addEventListener('click', () => {
+      this.progress.setHideCollected(!this.progress.isHideCollected());
+    });
 
     // Search filter
     document.getElementById('sb-search')?.addEventListener('input', e => {
