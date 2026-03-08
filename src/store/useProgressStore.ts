@@ -9,6 +9,7 @@ export interface ProgressState {
   version: number;
   collected: Record<string, CategoryProgress>;
   visibleCategories: Record<string, boolean>;
+  expandedGroups: Record<string, boolean>;
   settings: {
     hideFound: boolean;
   };
@@ -18,6 +19,8 @@ export interface ProgressState {
   toggleCategory: (categoryId: string) => void;
   setCategoryVisible: (categoryId: string, visible: boolean) => void;
   setAllCategoriesVisible: (visible: boolean, categoryIds: string[]) => void;
+  setGroupExpanded: (groupId: string, expanded: boolean) => void;
+  toggleGroupExpanded: (groupId: string) => void;
   setHideFound: (hide: boolean) => void;
   clearCategory: (categoryId: string) => void;
   clearAll: () => void;
@@ -33,6 +36,7 @@ export const useProgressStore = create<ProgressState>()(
       version: 2,
       collected: {},
       visibleCategories: {},
+      expandedGroups: {},
       settings: {
         hideFound: false,
       },
@@ -91,6 +95,25 @@ export const useProgressStore = create<ProgressState>()(
         set({ visibleCategories: nextVisible });
       },
 
+      setGroupExpanded: (groupId, expanded) => {
+        set({
+          expandedGroups: {
+            ...get().expandedGroups,
+            [groupId]: expanded,
+          },
+        });
+      },
+
+      toggleGroupExpanded: (groupId) => {
+        const current = get().expandedGroups[groupId] ?? true;
+        set({
+          expandedGroups: {
+            ...get().expandedGroups,
+            [groupId]: !current,
+          },
+        });
+      },
+
       setHideFound: (hide) => {
         const state = get();
         if (state.settings.hideFound === hide) return;
@@ -129,6 +152,7 @@ export const useProgressStore = create<ProgressState>()(
       partialize: (state) => ({
         collected: state.collected,
         visibleCategories: state.visibleCategories,
+        expandedGroups: state.expandedGroups,
         settings: state.settings,
       }),
     }

@@ -39,3 +39,5 @@
 - Fixed Build Errors:
   - Installed `@types/store` and removed `@types/storejs` to resolve module declaration issues.
   - Refactored tests to avoid parameter properties, satisfying `erasableSyntaxOnly` requirements in newer TypeScript configurations.
+- Streamlined Sidebar UI: Removed redundant category checkboxes (color dots) to expand the name area and focus on the toggle slider.
+- Improved Documentation: Reorganized `README.md` to move technology stack details (React, Zustand, etc.) into a dedicated "Tech Stack" section.

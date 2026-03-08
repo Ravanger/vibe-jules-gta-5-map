@@ -20,8 +20,8 @@ Critical UX/accessibility learnings only.
 
 ---
 
-## 2026-03-07 — Progress UI for Collectibles
+## 2026-03-08 — Streamlining Sidebar Category Items
 
-**Learning:** Players need a quick at-a-glance sense of completion for each collectible set without opening individual markers. Progress belongs where discovery decisions happen: in the sidebar and around the popup actions, not in separate overlays.
+**Learning:** Having both a color dot (checkbox replacement) on the left and a toggle slider on the right of each category was redundant and cluttered the UI. Removing the left-side dot allows the category name to have more horizontal space, which is especially beneficial for longer category names on narrow viewports. The toggle slider alone is sufficient for indicating visibility.
 
-**Action:** Added per-category `collected/total` badges in the sidebar driven by `UserProgressStore`, and a low-friction \"Mark as collected\" toggle inside each popup. Collected markers are visually de-emphasized on the map (dimmed icons) so remaining tasks pop, while still preserving spatial context.
+**Action:** Removed the `cat-check` color dot from `CategoryItem.tsx` and simplified the layout to maximize the category name text area.
