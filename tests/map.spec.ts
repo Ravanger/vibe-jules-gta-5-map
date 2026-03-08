@@ -34,7 +34,7 @@ test('clicking a marker opens a popup', async ({ page }) => {
   await page.waitForTimeout(1000);
 
   // Click a specific marker directly
-  const marker = page.locator('.leaflet-marker-icon[src*="playing_card"]').first();
+  const marker = page.locator('.leaflet-marker-pane [data-category-id="playing_card"]').first();
   await expect(marker).toBeVisible();
   await marker.click({ force: true });
   
@@ -58,7 +58,7 @@ test('copy button in popup works', async ({ page }) => {
   
   await page.waitForTimeout(1000);
   
-  const marker = page.locator('.leaflet-marker-icon[src*="playing_card"]').first();
+  const marker = page.locator('.leaflet-marker-pane [data-category-id="playing_card"]').first();
   await expect(marker).toBeVisible();
   await marker.click({ force: true });
   
@@ -85,7 +85,7 @@ test('copy button shows "Copied!" feedback after click', async ({ page, browserN
 
   await page.waitForTimeout(1000);
 
-  const marker = page.locator('.leaflet-marker-icon[src*="playing_card"]').first();
+  const marker = page.locator('.leaflet-marker-pane [data-category-id="playing_card"]').first();
   await expect(marker).toBeVisible();
   await marker.click({ force: true });
 
@@ -113,7 +113,7 @@ test('opening glightbox works', async ({ page }) => {
   
   await page.waitForTimeout(1000);
   
-  const marker = page.locator('.leaflet-marker-icon[src*="playing_card"]').first();
+  const marker = page.locator('.leaflet-marker-pane [data-category-id="playing_card"]').first();
   await expect(marker).toBeVisible();
   await marker.click({ force: true });
   

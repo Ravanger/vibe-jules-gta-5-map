@@ -16,7 +16,7 @@ test('marking a collectible as collected updates sidebar and persists', async ({
 
   await page.waitForTimeout(1000);
 
-  const marker = page.locator('.leaflet-marker-icon[src*="playing_card"]').first();
+  const marker = page.locator('.leaflet-marker-pane [data-category-id="playing_card"]').first();
   await expect(marker).toBeVisible();
   await marker.click({ force: true });
 
@@ -51,7 +51,7 @@ test('hiding/showing collected markers via settings', async ({ page }) => {
   });
   await page.waitForTimeout(1000);
 
-  const marker = page.locator('.leaflet-marker-icon[src*="playing_card"]').first();
+  const marker = page.locator('.leaflet-marker-pane [data-category-id="playing_card"]').first();
   await expect(marker).toBeVisible();
   await marker.click({ force: true });
 

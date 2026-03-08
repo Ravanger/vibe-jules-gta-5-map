@@ -45,3 +45,12 @@
   - Updated Sidebar filtering logic to search within marker titles and popup descriptions (stripping HTML for clean matching).
   - Modified `GroupSection` to automatically expand categories that contain search matches.
   - Updated E2E tests to accommodate DOM-based filtering (elements being removed vs hidden).
+- **2026-03-08 — High-Quality Iconography Implementation**
+  - Replaced raster marker icons with a unified vector-based SVG system.
+  - Created `src/data/icons.ts` to manage shared SVG paths for categories and groups.
+  - Implemented `CategoryIcon` component for consistent rendering in sidebar and map.
+  - Updated `CategoryLayer` to use `L.divIcon` with custom SVG markup and glassmorphism styling.
+  - Updated `extract_data.cjs` to support `iconId` mapping for better category-specific iconography.
+  - Added icons next to category names in the sidebar for improved visual recognition.
+  - Separated **Peyote Plant** into independent "Collectibles" and "Online" categories to allow distinct progress tracking.
+  - Updated E2E tests to identify markers via `data-category-id` attributes instead of raster image source paths, ensuring test stability with the new SVG-based system.

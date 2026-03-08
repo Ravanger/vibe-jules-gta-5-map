@@ -11,6 +11,7 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 - **Deep Linking:** URL hash integration via `leaflet-hash` for easy sharing of specific map locations.
 - **Coordinate Tracking:** Real-time in-game coordinate display via a custom MousePosition control.
 - **Image Previews:** Integrated **GLightbox** for viewing in-game screenshots of collectible locations.
+- **High-Quality Iconography:** Consistent, vector-based SVG icons for all categories and map markers, ensuring clarity at all zoom levels.
 - **User Progress Tracking:** Per-collectible completion tracking stored in browser localStorage, with an architecture ready for future account-based sync.
 - **Modern UI:** Custom glassmorphism sidebar, smooth animations, and optimized layout.
 - **Automated Testing:** Comprehensive suite including unit tests (Vitest) and End-to-End tests (Playwright).
@@ -90,7 +91,7 @@ The project now uses a categorized data structure in `src/data/`. To manage the 
 - [x] **UI/UX Overhaul:** Modernized map interface with glassmorphism aesthetics, group-based filtering, and visual stability improvements.
 - [x] **User Progress Tracking:** LocalStorage-based progress saving for collected items, with a pluggable design for future account-based backends.
 - [x] **Advanced Search:** Expand sidebar search/filter to include marker titles and descriptions in addition to category names.
-- [ ] **Icon Refresh:** Audit and update map markers with higher-quality, consistent iconography for better clarity at all zoom levels.
+- [x] **Icon Refresh:** Audit and update map markers with higher-quality, consistent iconography for better clarity at all zoom levels.
 
 ## 📜 Credits
 

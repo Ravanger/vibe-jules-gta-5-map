@@ -26,6 +26,13 @@ describe('Categories Data', () => {
         });
       });
 
+      it('should have an icon mapping or be using group default', () => {
+        // We don't strictly require iconId because it can fallback to group icon
+        if (category.iconId) {
+          expect(typeof category.iconId).toBe('string');
+        }
+      });
+
       it('marker coordinates should be within reasonable bounds', () => {
         category.markers.forEach((marker: any, index: number) => {
           expect(marker.lat, `Marker at index ${index} lat out of bounds`).toBeLessThanOrEqual(100000);

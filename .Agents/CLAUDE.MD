@@ -32,6 +32,13 @@
 - `src/utils/mapUtils.ts`: CRS and bounds logic.
 - `src/js/`: Custom Leaflet plugins (MousePosition, Hash).
 - `src/data/`: Static marker and category JSON data (organized by category group).
+- `src/data/icons.ts`: Central registry for vector-based SVG iconography.
+
+### Iconography System
+The project uses a unified vector-based SVG system instead of raster PNGs. Icons are defined as path strings in `src/data/icons.ts` and rendered via the `CategoryIcon.tsx` component.
+- **Map Markers:** `CategoryLayer.tsx` uses `L.divIcon` to render SVG pins with glassmorphism styling.
+- **Sidebar Icons:** `CategoryItem.tsx` includes icons next to category names for better visual identification.
+- **Extensibility:** New icons should be added to `src/data/icons.ts` and mapped in `extract_data.cjs`.
 
 ### Advanced Search
 The sidebar search filters `categories` by:

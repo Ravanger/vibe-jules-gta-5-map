@@ -593,8 +593,8 @@ button.copy {
 }
 
 .marker--collected {
-  filter: grayscale(0.7) brightness(0.85);
-  opacity: 0.75;
+  filter: grayscale(0.6) brightness(0.9);
+  opacity: 0.85;
 }
 
 .popup-root {
@@ -622,4 +622,43 @@ button.copy {
   background: rgba(34,197,94,0.16);
   border-color: rgba(34,197,94,0.7);
   color: #22c55e;
+}
+
+/* ─── Marker Styles ────────────────────────────────────── */
+.marker-icon-wrapper {
+  background: transparent;
+  border: none;
+}
+
+.marker-pin {
+  width: 32px;
+  height: 32px;
+  border-radius: 50% 50% 50% 0;
+  background: white;
+  border: 2px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(-45deg);
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+}
+
+.marker-pin svg {
+  width: 18px;
+  height: 18px;
+  transform: rotate(45deg);
+  filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.2));
+}
+
+.marker-icon-wrapper:hover .marker-pin {
+  transform: rotate(-45deg) scale(1.15);
+  z-index: 1000 !important;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.6);
+}
+
+.marker--collected .marker-pin {
+  opacity: 0.8;
+  filter: grayscale(0.5);
 }

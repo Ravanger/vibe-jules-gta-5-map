@@ -98,3 +98,33 @@ test('group collapse toggle works', async ({ page }) => {
   await locationsHeader.click();
   await expect(groupBody).not.toHaveClass(/group-body--closed/);
 });
+
+test('peyote plant categories are independent', async ({ page }) => {
+  await page.waitForSelector('#sb-cats');
+
+  // Find the Peyote Plant in Collectibles and Online
+  const collectiblesPeyote = page.locator('.cat-item').filter({ hasText: 'Peyote Plant' }).nth(0);
+  const onlinePeyote = page.locator('.cat-item').filter({ hasText: 'Peyote Plant' }).nth(1);
+
+  await expect(collectiblesPeyote).toBeVisible();
+  await expect(onlinePeyote).toBeVisible();
+
+  // Initially they should both be off (visible: false)
+  await expect(collectiblesPeyote.locator('.cat-name')).toHaveClass(/text-gray-500/);
+  await expect(onlinePeyote.locator('.cat-name')).toHaveClass(/text-gray-500/);
+
+  // Toggle Collectibles Peyote
+  await collectiblesPeyote.click();
+  await expect(collectiblesPeyote.locator('.cat-name')).toHaveClass(/text-gray-200/);
+  await expect(onlinePeyote.locator('.cat-name')).toHaveClass(/text-gray-500/);
+
+  // Toggle Online Peyote
+  await onlinePeyote.click();
+  await expect(collectiblesPeyote.locator('.cat-name')).toHaveClass(/text-gray-200/);
+  await expect(onlinePeyote.locator('.cat-name')).toHaveClass(/text-gray-200/);
+
+  // Untoggle Collectibles Peyote
+  await collectiblesPeyote.click();
+  await expect(collectiblesPeyote.locator('.cat-name')).toHaveClass(/text-gray-500/);
+  await expect(onlinePeyote.locator('.cat-name')).toHaveClass(/text-gray-200/);
+});
