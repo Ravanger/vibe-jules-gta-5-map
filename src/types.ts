@@ -15,9 +15,8 @@ export interface CategoryDefinition {
   id: string;
   name: string;
   group: CategoryGroup;
-  iconUrl: string | ((m: MarkerData) => string);
-  iconSize?: [number, number];
-  iconAnchor?: [number, number];
+  iconId?: string;
+  color?: string;
   markers: MarkerData[];
   visible: boolean;
 }
