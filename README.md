@@ -10,11 +10,11 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 - **Deep Linking:** URL hash integration via `leaflet-hash` for easy sharing of specific map locations.
 - **Coordinate Tracking:** Real-time in-game coordinate display via a custom MousePosition control.
 - **Image Previews:** Integrated **GLightbox** for viewing in-game screenshots of collectible locations.
+- **User Progress Tracking:** Per-collectible completion tracking stored in browser localStorage, with an architecture ready for future account-based sync.
 - **Modern UI:** Custom glassmorphism sidebar, smooth animations, and optimized layout.
 - **Automated Testing:** Comprehensive suite including unit tests (Vitest) and End-to-End tests (Playwright).
 
 ## 🛠️ Tech Stack
-
 
 ### Core
 
@@ -22,13 +22,12 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 - **[TypeScript](https://www.typescriptlang.org/):** Adds static typing to ensure code reliability and maintainability.
 - **[Vite](https://vitejs.dev/):** Next-generation frontend tooling for fast development and optimized builds.
 
-
 ### UI & Utilities
 
 - **[Tailwind CSS](https://tailwindcss.com/):** For utility-first responsive styling.
 - **[GLightbox](https://biati-digital.github.io/glightbox/):** Modern, dependency-free lightbox for image overlays.
 - **[ClipboardJS](https://clipboardjs.com/):** For easy coordinate link sharing.
-
+- **[store.js](https://github.com/marcuswestin/store.js):** Cross-browser storage for user progress and preferences.
 
 ### Testing
 
@@ -37,12 +36,10 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 
 ## 💻 Getting Started
 
-
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (Latest LTS recommended)
 - npm (comes with Node.js)
-
 
 ### Installation
 
@@ -53,7 +50,6 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
    npm install
    ```
 
-
 ### Development
 
 Start the development server with Hot Module Replacement (HMR):
@@ -62,7 +58,6 @@ Start the development server with Hot Module Replacement (HMR):
 npm run dev
 ```
 
-
 ### Building for Production
 
 Create an optimized production build in the `dist/` folder:
@@ -70,7 +65,6 @@ Create an optimized production build in the `dist/` folder:
 ```bash
 npm run build
 ```
-
 
 ### Running Tests
 
@@ -93,14 +87,15 @@ The project now uses a categorized data structure in `src/data/`. To manage the 
 - [x] **Filter System:** Custom sidebar with searchable categories and group-level toggling.
 - [x] **Data Expansion:** Automated processing for all 67+ categories including Letter Scraps, Spaceship Parts, etc.
 - [x] **UI/UX Overhaul:** Modernized map interface with glassmorphism aesthetics, group-based filtering, and visual stability improvements.
-- [ ] **User Progress Tracking:** LocalStorage or Account-based progress saving for collected items. (Next Priority)
+- [x] **User Progress Tracking:** LocalStorage-based progress saving for collected items, with a pluggable design for future account-based backends.
+- [ ] **Icon Refresh:** Audit and update map markers with higher-quality, consistent iconography for better clarity at all zoom levels.
 
 ## 📜 Credits
 
 - **Original Data:** Special thanks to **[gta-5-map.com](https://gta-5-map.com/)** for providing extensive locations data utilized in this project.
 - **Original Author:** Created by [Kirill Krasin (Mo45)](https://github.com/Mo45). Original concept provided by [RockstarHub.ru](https://rockstarhub.ru).
 - **Original Repository:** [Mo45/gta5-player-cards-map](https://github.com/Mo45/gta5-player-cards-map)
-- **Modernization:** Refactored to TypeScript, migrated to Vite, and modernized with assistance from **Google Gemini**.
+- **Modernization:** Refactored to TypeScript, migrated to Vite, and modernized with assistance from several AI models to help vibe-code the experience.
 
 ---
 
