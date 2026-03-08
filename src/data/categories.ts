@@ -62,10 +62,10 @@ import garageOnline from './online/garage.json';
 import hangerOnline from './online/hanger.json';
 import nightclubOnline from './online/nightclub.json';
 import peyotePlantOnline from './online/peyote_plant.json';
-import signalJammerOnline from './online/signal_jammer.json';
+import signalJammerCollectibles from './collectibles/signal_jammer.json';
 import warehouseOnline from './online/warehouse.json';
-import easterEggMysteries from './mysteries/easter_egg.json';
-import ldOrganicsProductOther from './other/ld_organics_product.json';
+import easterEggOther from './other/easter_egg.json';
+import ldOrganicsProductCollectibles from './collectibles/ld_organics_product.json';
 import miscellaneousOther from './other/miscellaneous.json';
 
 export const locations: CategoryDefinition[] = [
@@ -460,6 +460,26 @@ export const collectibles: CategoryDefinition[] = [
     iconAnchor: [16, 37],
     markers: underTheBridgeCollectibles as MarkerData[],
     visible: true
+  },
+  {
+    id: 'ld_organics_product',
+    name: 'LD Organics Product',
+    group: 'Collectibles',
+    iconUrl: (m: MarkerData) => `/images/markers/marker_${m.icon}.png`,
+    iconSize: [32, 37],
+    iconAnchor: [16, 37],
+    markers: ldOrganicsProductCollectibles as MarkerData[],
+    visible: true
+  },
+  {
+    id: 'signal_jammer',
+    name: 'Signal Jammer',
+    group: 'Collectibles',
+    iconUrl: (m: MarkerData) => `/images/markers/marker_${m.icon}.png`,
+    iconSize: [32, 37],
+    iconAnchor: [16, 37],
+    markers: signalJammerCollectibles as MarkerData[],
+    visible: true
   }
 ];
 
@@ -714,16 +734,6 @@ export const online: CategoryDefinition[] = [
     visible: true
   },
   {
-    id: 'signal_jammer',
-    name: 'Signal Jammer',
-    group: 'Online',
-    iconUrl: (m: MarkerData) => `/images/markers/marker_${m.icon}.png`,
-    iconSize: [32, 37],
-    iconAnchor: [16, 37],
-    markers: signalJammerOnline as MarkerData[],
-    visible: true
-  },
-  {
     id: 'warehouse',
     name: 'Warehouse',
     group: 'Online',
@@ -735,28 +745,15 @@ export const online: CategoryDefinition[] = [
   }
 ];
 
-export const mysteries: CategoryDefinition[] = [
+export const other: CategoryDefinition[] = [
   {
     id: 'easter_egg',
     name: 'Easter Egg',
-    group: 'Mysteries',
-    iconUrl: (m: MarkerData) => `/images/markers/marker_${m.icon}.png`,
-    iconSize: [32, 37],
-    iconAnchor: [16, 37],
-    markers: easterEggMysteries as MarkerData[],
-    visible: true
-  }
-];
-
-export const other: CategoryDefinition[] = [
-  {
-    id: 'ld_organics_product',
-    name: 'LD Organics Product',
     group: 'Other',
     iconUrl: (m: MarkerData) => `/images/markers/marker_${m.icon}.png`,
     iconSize: [32, 37],
     iconAnchor: [16, 37],
-    markers: ldOrganicsProductOther as MarkerData[],
+    markers: easterEggOther as MarkerData[],
     visible: true
   },
   {
@@ -781,6 +778,5 @@ export const categories: CategoryDefinition[] = [
   ...items,
   ...quests,
   ...online,
-  ...mysteries,
   ...other,
 ];

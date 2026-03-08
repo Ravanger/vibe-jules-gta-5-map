@@ -4,11 +4,10 @@ import { useProgressStore } from '../../store/useProgressStore';
 
 interface Props {
   category: CategoryDefinition;
-  color: string;
   search: string;
 }
 
-export const CategoryItem: React.FC<Props> = React.memo(({ category, color, search }) => {
+export const CategoryItem: React.FC<Props> = React.memo(({ category, search }) => {
   const isVisible = useProgressStore(state => state.visibleCategories[category.id] ?? category.visible);
   const toggleCategory = useProgressStore(state => state.toggleCategory);
   
@@ -32,7 +31,6 @@ export const CategoryItem: React.FC<Props> = React.memo(({ category, color, sear
       onClick={handleToggle}
       style={{ display: matchesSearch ? 'flex' : 'none' }}
     >
-      <div className="cat-check w-2 h-2 rounded-full" style={{ backgroundColor: color }} />
       <span className="cat-name text-white text-xs select-none flex-1">{category.name}</span>
       
       <span 

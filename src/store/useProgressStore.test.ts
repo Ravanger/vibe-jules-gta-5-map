@@ -6,6 +6,7 @@ describe('useProgressStore', () => {
     useProgressStore.setState({
       collected: {},
       visibleCategories: {},
+      expandedGroups: {},
       settings: { hideFound: false }
     });
   });
@@ -13,6 +14,7 @@ describe('useProgressStore', () => {
   it('initializes with default state', () => {
     const state = useProgressStore.getState();
     expect(state.collected).toEqual({});
+    expect(state.expandedGroups).toEqual({});
     expect(state.settings.hideFound).toBe(false);
   });
 
@@ -36,6 +38,21 @@ describe('useProgressStore', () => {
     
     toggleCategory('cat1');
     expect(useProgressStore.getState().visibleCategories['cat1']).toBe(true);
+  });
+
+  it('manages group expansion state', () => {
+    const { toggleGroupExpanded, setGroupExpanded } = useProgressStore.getState();
+    
+    // Toggle (defaults to true, so first toggle makes it false)
+    toggleGroupExpanded('Locations');
+    expect(useProgressStore.getState().expandedGroups['Locations']).toBe(false);
+    
+    toggleGroupExpanded('Locations');
+    expect(useProgressStore.getState().expandedGroups['Locations']).toBe(true);
+
+    // Explicit set
+    setGroupExpanded('Activities', false);
+    expect(useProgressStore.getState().expandedGroups['Activities']).toBe(false);
   });
 
   it('manages hideFound setting', () => {

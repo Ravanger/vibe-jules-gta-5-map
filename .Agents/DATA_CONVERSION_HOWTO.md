@@ -40,7 +40,7 @@ const convertedMarkers = sourceMarkers.map(m => {
 
 // Save to the app's data directory
 fs.writeFileSync(
-    '../src/data/categories/locations/ammu_nation.json', 
+    '../src/data/locations/ammu_nation.json', 
     JSON.stringify(convertedMarkers, null, 2)
 );
 
@@ -53,7 +53,7 @@ Update `src/data/categories.ts` to include the new data file.
 
 ```typescript
 // 1. Import the new JSON
-import ammuNation from './categories/ammu_nation.json';
+import ammuNation from './locations/ammu_nation.json';
 
 export const categories: CategoryDefinition[] = [
   // ... existing categories

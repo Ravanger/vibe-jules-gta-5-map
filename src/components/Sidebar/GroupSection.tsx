@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useMemo } from 'react';
+import React, { useCallback, useMemo } from 'react';
 import type { CategoryDefinition, CategoryGroup } from '../../types';
 import { useProgressStore } from '../../store/useProgressStore';
 import { CategoryItem } from './CategoryItem';
@@ -24,11 +24,12 @@ interface Props {
 }
 
 export const GroupSection: React.FC<Props> = React.memo(({ group, categories, search }) => {
-  const [isExpanded, setIsExpanded] = useState(true);
   const meta = GROUP_META[group] || { color: '#94a3b8', path: '' };
   
   const setCategoryVisible = useProgressStore(state => state.setCategoryVisible);
   const visibleCategories = useProgressStore(state => state.visibleCategories);
+  const isExpanded = useProgressStore(state => state.expandedGroups[group] ?? true);
+  const toggleGroupExpanded = useProgressStore(state => state.toggleGroupExpanded);
 
   const allVisible = useMemo(() => {
     return categories.every(c => visibleCategories[c.id] ?? c.visible);
@@ -42,8 +43,8 @@ export const GroupSection: React.FC<Props> = React.memo(({ group, categories, se
   }, [allVisible, categories, setCategoryVisible]);
 
   const toggleExpanded = useCallback(() => {
-    setIsExpanded(prev => !prev);
-  }, []);
+    toggleGroupExpanded(group);
+  }, [group, toggleGroupExpanded]);
 
   return (
     <div className="cat-group mb-2 border border-[#1e1e2d] rounded-xl overflow-hidden shadow-lg bg-[#0c0c18]/50 ring-1 ring-white/5">
@@ -74,7 +75,7 @@ export const GroupSection: React.FC<Props> = React.memo(({ group, categories, se
         className={`cat-group-body p-2 space-y-1 transition-all duration-200 ${isExpanded ? 'block' : 'hidden group-body--closed'}`}
       >
         {categories.map(c => (
-          <CategoryItem key={c.id} category={c} color={meta.color} search={search} />
+          <CategoryItem key={c.id} category={c} search={search} />
         ))}
       </div>
     </div>
